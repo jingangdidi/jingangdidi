@@ -8,3 +8,4 @@ My technology stack involves `Rust`, `Python`, `R`, `Golang`, `javascript/HTML/C
 - 🌱 I’m currently learning **LLM Agent**, **ASR** and **TTS**
 - 📫 How to reach me: [943113134@qq.com](943113134@qq.com)
 
+<!-- - 🤩 I’m currently open for: A new job opportunity -->
